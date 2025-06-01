@@ -22,13 +22,8 @@ A crime data analysis project using Python and Jupyter Notebook to visualize **h
 ## Requirements
 
 - Python 3.10+
+- ipynb extension
 - Pandas, NumPy, Seaborn, Matplotlib, Jupyter, Folium
-
-Install all dependencies with:
-
-```bash
-pip install -r requirements.txt
-```
 
 ## Getting Started
 
