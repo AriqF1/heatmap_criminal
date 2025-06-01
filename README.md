@@ -45,8 +45,8 @@ cd heatmap_criminal
 heatmap-kriminal/
 ├── data/
 │   ├── 01_raw/            # Raw data from Kaggle
-│   ├── 02_interim/  # Cleaned data
-│   └── 03_processed/        # Analysis-ready data
+│   ├── 02_interim/        # Cleaned data
+│   └── 03_processed/      # Analysis-ready data
 ├── notebooks/             # Jupyter Notebooks for EDA & visualization
 ├── scripts/               # Python scripts for data pipeline
 ├── visualization/         # Generated heatmaps and charts
