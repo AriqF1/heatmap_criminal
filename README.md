@@ -51,6 +51,7 @@ heatmap_criminal/
 ├── scripts/               # Python scripts for data pipeline
 ├── visualization/         # Generated heatmaps and charts
 ├── reports/               # Final analysis, charts, and documentation
+├── LICENSE
 ├── README.md
 └── requirements.txt
 ```
