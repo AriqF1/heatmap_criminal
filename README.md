@@ -42,7 +42,7 @@ cd heatmap_criminal
 ## Folder Structure
 
 ```bash
-heatmap-kriminal/
+heatmap_criminal/
 ├── data/
 │   ├── 01_raw/            # Raw data from Kaggle
 │   ├── 02_interim/        # Cleaned data
