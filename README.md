@@ -16,7 +16,6 @@ A crime data analysis project using Python and Jupyter Notebook to visualize **h
 - Preprocessing of crime data from Kaggle
 - Duplicate detection and cleaning for large datasets
 - Crime frequency analysis by hour and district
-- Heatmap of crime locations using coordinates (X, Y)
 - Professional and modular folder structure
 
 ## Requirements
@@ -30,8 +29,8 @@ A crime data analysis project using Python and Jupyter Notebook to visualize **h
 Clone The Repository
 
 ```bash
-git clone https://github.com/AriqF1/heatmap_criminal.git
-cd heatmap_criminal
+git clone https://github.com/AriqF1/prediction_criminal.git
+cd prediction_criminal
 ```
 
 ## Folder Structure
