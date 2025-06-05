@@ -1,4 +1,4 @@
-# Crime Heatmap Analysis (Python)
+# Crime Prediction (Python)
 
 A crime data analysis project using Python and Jupyter Notebook to visualize **high-crime hours** and **geographical crime density** with interactive heatmaps.
 
